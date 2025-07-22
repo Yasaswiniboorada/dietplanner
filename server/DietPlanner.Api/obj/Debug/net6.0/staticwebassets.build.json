@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0iVIyMM4vIzVrJfjxQyaY02+Qz1/iHGNg6l8mn/+T/k=",
+  "Source": "DietPlanner.Api",
+  "BasePath": "_content/DietPlanner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dietplanner-data-loader",
+  "version": "1.0.0",
+  "description": "Script to load meal items data into the DietPlanner database",
+  "main": "LoadMealItems.js",
+  "scripts": {
+    "load-meal-items": "node LoadMealItems.js"
+  },
+  "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "pg": "^8.11.3",
+    "uuid": "^11.1.0"
+  }
+}

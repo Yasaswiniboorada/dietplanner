@@ -1,0 +1,340 @@
+[
+  {
+    "name":"Moong Dal Chilla",
+    "type":"Vegetarian",
+    "calories":220,
+    "protein":14,
+    "carbs":20,
+    "fats":8,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Quinoa Upma",
+    "type":"Vegetarian",
+    "calories":250,
+    "protein":8,
+    "carbs":35,
+    "fats":9,
+    "category":[
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Vegetable Oats Khichdi",
+    "type":"Vegetarian",
+    "calories":200,
+    "protein":7,
+    "carbs":32,
+    "fats":6,
+    "category":[
+      "Weight Loss"
+    ]
+  },
+  {
+    "name":"Sprouts Salad",
+    "type":"Vegetarian",
+    "calories":150,
+    "protein":12,
+    "carbs":15,
+    "fats":4,
+    "category":[
+      "Weight Loss"
+    ]
+  },
+  {
+    "name":"Tofu Stir Fry",
+    "type":"Vegetarian",
+    "calories":230,
+    "protein":15,
+    "carbs":10,
+    "fats":14,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Greek Yogurt + Fruits",
+    "type":"Vegetarian",
+    "calories":160,
+    "protein":10,
+    "carbs":20,
+    "fats":4,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Boiled Chickpeas + Veg Salad",
+    "type":"Vegetarian",
+    "calories":240,
+    "protein":12,
+    "carbs":30,
+    "fats":6,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Paneer Bhurji",
+    "type":"Vegetarian",
+    "calories":300,
+    "protein":17,
+    "carbs":8,
+    "fats":22,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Millet Roti + Dal + Veg Sabzi",
+    "type":"Vegetarian",
+    "calories":400,
+    "protein":18,
+    "carbs":45,
+    "fats":12,
+    "category":[
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Chia Pudding",
+    "type":"Vegetarian",
+    "calories":180,
+    "protein":6,
+    "carbs":14,
+    "fats":12,
+    "category":[
+      "Weight Loss"
+    ]
+  },
+  {
+    "name":"Grilled Chicken Breast + Veggies",
+    "type":"Non-Vegetarian",
+    "calories":280,
+    "protein":35,
+    "carbs":10,
+    "fats":10,
+    "category":[
+      "Weight Loss",
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Boiled Eggs + Multigrain Toast",
+    "type":"Non-Vegetarian",
+    "calories":260,
+    "protein":14,
+    "carbs":18,
+    "fats":14,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Egg White Bhurji",
+    "type":"Non-Vegetarian",
+    "calories":110,
+    "protein":16,
+    "carbs":4,
+    "fats":2,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Tuna Salad",
+    "type":"Non-Vegetarian",
+    "calories":210,
+    "protein":22,
+    "carbs":6,
+    "fats":12,
+    "category":[
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Chicken Stir Fry",
+    "type":"Non-Vegetarian",
+    "calories":240,
+    "protein":25,
+    "carbs":8,
+    "fats":12,
+    "category":[
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Grilled Fish + Quinoa",
+    "type":"Non-Vegetarian",
+    "calories":300,
+    "protein":25,
+    "carbs":20,
+    "fats":12,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Boiled Chicken + Sweet Potato",
+    "type":"Non-Vegetarian",
+    "calories":280,
+    "protein":22,
+    "carbs":25,
+    "fats":8,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Omelette (2 eggs + veggies)",
+    "type":"Non-Vegetarian",
+    "calories":180,
+    "protein":13,
+    "carbs":3,
+    "fats":14,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Chicken Clear Soup",
+    "type":"Non-Vegetarian",
+    "calories":90,
+    "protein":10,
+    "carbs":3,
+    "fats":4,
+    "category":[
+      "Weight Loss"
+    ]
+  },
+  {
+    "name":"Egg Wrap",
+    "type":"Non-Vegetarian",
+    "calories":300,
+    "protein":18,
+    "carbs":25,
+    "fats":14,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Vegetable Brown Rice Pulao",
+    "type":"Vegetarian",
+    "calories":320,
+    "protein":8,
+    "carbs":58,
+    "fats":6,
+    "category":[
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Dal and Spinach Soup",
+    "type":"Vegetarian",
+    "calories":140,
+    "protein":9,
+    "carbs":22,
+    "fats":3,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Baked Sweet Potato with Cottage Cheese",
+    "type":"Vegetarian",
+    "calories":290,
+    "protein":14,
+    "carbs":40,
+    "fats":8,
+    "category":[
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Spinach and Mushroom Omelette",
+    "type":"Non-Vegetarian",
+    "calories":220,
+    "protein":18,
+    "carbs":6,
+    "fats":14,
+    "category":[
+      "Weight Loss"
+    ]
+  },
+  {
+    "name":"Protein Smoothie Bowl",
+    "type":"Vegetarian",
+    "calories":300,
+    "protein":20,
+    "carbs":35,
+    "fats":8,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Almond Butter on Whole Grain Toast",
+    "type":"Vegetarian",
+    "calories":280,
+    "protein":10,
+    "carbs":30,
+    "fats":15,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Stuffed Bell Peppers with Quinoa",
+    "type":"Vegetarian",
+    "calories":260,
+    "protein":12,
+    "carbs":30,
+    "fats":10,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  },
+  {
+    "name":"Chicken Buddha Bowl",
+    "type":"Non-Vegetarian",
+    "calories":380,
+    "protein":28,
+    "carbs":42,
+    "fats":10,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Salmon Poke Bowl",
+    "type":"Non-Vegetarian",
+    "calories":350,
+    "protein":24,
+    "carbs":35,
+    "fats":12,
+    "category":[
+      "Muscle Gain"
+    ]
+  },
+  {
+    "name":"Lentil Salad with Roasted Vegetables",
+    "type":"Vegetarian",
+    "calories":270,
+    "protein":16,
+    "carbs":32,
+    "fats":9,
+    "category":[
+      "Weight Loss",
+      "Diabetic-Friendly"
+    ]
+  }
+] 
